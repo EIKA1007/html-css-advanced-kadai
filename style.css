@@ -656,7 +656,7 @@ body {
      width: 100%;
      display: none;
      z-index: 100;
-   }
+   
    }
 
    /* ×ボタン */
@@ -1102,4 +1102,6 @@ body {
      order: 2;
      width: 100%;
    }
+
+  }
 
